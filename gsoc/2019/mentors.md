@@ -3,7 +3,7 @@ title: Summary of Mentors GSoC 2019
 layout: plain
 ---
 
-## Full Mentor List (Name, Email, Org)	
+## Full Mentor List (Name, Email, Org)
 
 * Roel Aaij [roelaaij@nikhef.nl](mailto:roelaaij@nikhef.nl) Nikhef
 * Xiaocong Ai [xiaocong.ai@cern.ch](mailto:xiaocong.ai@cern.ch) UCB
@@ -97,12 +97,13 @@ layout: plain
 * Simon Spannagel [simon.spannagel@cern.ch](mailto:simon.spannagel@cern.ch) CERN
 * Federico Stagni [federico.stagni@cern.ch](mailto:federico.stagni@cern.ch) CERN
 * Graeme A Stewart <graeme.andrew.stewart@cern.ch> CERN
-* Yuka Takahashi [yuka@cern.ch](mailto:yuka@cern.ch) CERN
+* Yuka Takahashi [yukatkh@gmail.com](mailto:yukatkh@gmail.com) CERN
 * Enric Tejedor Saavedra [etejedor@cern.ch](mailto:etejedor@cern.ch) CERN
 * Lauren Tompkins [laurenat@stanford.edu](mailto:laurenat@stanford.edu) Stanford University
 * Marlene Turner [marlene.turner@cern.ch](mailto:marlene.turner@cern.ch) CERN
 * Gianluca Valentino [Gianluca.Valentino@cern.ch](mailto:Gianluca.Valentino@cern.ch) CERN
 * Vassil Vassilev [vvasilev@cern.ch](mailto:vvasilev@cern.ch) Princeton
+* Jean-Roch Vlimant [vlimant@cern.ch](mailto:vlimant@cern.ch) Caltech
 * Tobias Wegner [tobias.wegner@cern.ch](mailto:tobias.wegner@cern.ch) CERN
 * Sandro Wenzel [sandro.wenzel@cern.ch](mailto:sandro.wenzel@cern.ch) CERN
 * Koen Wolters [k.s.wolters@gmail.com](mailto:k.s.wolters@gmail.com) CERN
